@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EmitLog",
+            "request": "launch",
+            "mainClass": "EmitLog",
+            "projectName": "tutorial-3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReceiveLogs",
+            "request": "launch",
+            "mainClass": "ReceiveLogs"
+        }
+    ]
+}
