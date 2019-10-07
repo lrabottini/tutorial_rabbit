@@ -1,1 +1,1 @@
-# tutorial_rabbit
+# tutorial_rabbitmq
